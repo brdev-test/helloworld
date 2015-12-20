@@ -3,7 +3,7 @@ public class Program
 { 
 	public static void Main(string[] args)
 	{ 
-		Console.WriteLine("Hello World from Core CLR on Linux.");
+		Console.WriteLine("Hello World from Core CLR on Linux");
 		if (args.Length > 0)
 		{
 			Console.WriteLine("You entered the following {0} command line argument(s):", args.Length );
